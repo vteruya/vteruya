@@ -5,7 +5,7 @@
 ### Hi! I'm Vitoria, welcome! 
 * Por aqui você vai encontrar um pouco do que eu estou estudando e meus projetos pessoais!  
 
-#
+
 <div>
   <a href="https://github.com/vteruya">
   <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
