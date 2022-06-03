@@ -2,12 +2,9 @@
   <img align="right" alt="lisa-pic" height="110" style="border-radius:50px;"src="https://i.kym-cdn.com/photos/images/original/000/740/022/c26.png" alt="..." class="img-thumbnail">
 </div> 
 
-### Hi! I'm Vitoria, welcome! 
-* Por aqui você vai encontrar um pouco do que eu estou estudando e meus projetos pessoais!  
+### Hi! I'm Vitoria, welcome! 🙂
+* Por aqui você vai encontrar um pouco do que eu estou estudando e meus projetos pessoais! 😉
 
+#
 
-<div align="center">
-  <a href="https://github.com/vteruya">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
+ <a href="https://github.com/vteruya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&theme=material-palenight&hide_border=true" /></a>
