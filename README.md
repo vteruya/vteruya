@@ -8,8 +8,8 @@
 #
 
  <a href="https://github.com/vteruya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="vteruya" /></a> <a href="https://github.com/vteruya">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&theme=material-palenight&hide_border=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=false" alt="vteruya" /></a> <a href="https://github.com/vteruya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&theme=material-palenight&hide_border=false" /></a>
 
 #
 #### Top Repositories
