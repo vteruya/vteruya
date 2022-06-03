@@ -1,3 +1,6 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 <div>
   <img align="right" alt="lisa-pic" height="110" style="border-radius:50px;"src="https://i.kym-cdn.com/photos/images/original/000/740/022/c26.png" alt="..." class="img-thumbnail">
 </div> 
@@ -8,3 +11,8 @@
 #
 
  | <a href="https://github.com/vteruya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&theme=material-palenight&hide_border=true" /></a> | 
+
+| ------------- | ------------- |
+
+#### Top Repositories
+
