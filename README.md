@@ -1,10 +1,13 @@
+<div>
+  <img align="right" alt="lisa-pic" height="100" style="border-radius:50px;"src="https://i.kym-cdn.com/photos/images/original/000/740/022/c26.png" alt="..." class="img-thumbnail">
+</div> 
 
-<div align="center">
+## Hi! I'm Vitoria, welcome! 
+ Por aqui você vai encontrar um pouco do que eu estou estudando e meus projetos pessoais!  
+
+
+<div>
   <a href="https://github.com/vteruya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=vteruya&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vteruya&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
